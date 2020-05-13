@@ -1,0 +1,5 @@
+applications:
+ - name: blissful-bohr
+   memory: 256M
+   host: blissful-bohr
+   buildpack: staticfile_buildpack
